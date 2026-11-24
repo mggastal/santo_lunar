@@ -1,3 +1,6 @@
 # santo_lunar
 
-Dashboard Meta Ads da Lunar (Santo Criativo). Lê a planilha 1Xhw_sVl… (abas meta-ads, breakdown-gender-age, breakdown-platform) via gerador.py; GitHub Action de hora em hora gera index.html.
+Dashboard Meta Ads (Santo Criativo), modelo Lume: dashboard.py lê a planilha e gera index.html (datas livres, Tudo, Diário/Semanal/Mensal, status ativo/pausado). Action de hora em hora.
+
+- logo.png = cliente, santo.png = Santo Criativo
+- data.json alimenta o painel santo_criativo
