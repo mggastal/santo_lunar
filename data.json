@@ -1,0 +1,55 @@
+{
+  "cliente": "Lunar",
+  "cor": "#EA8425",
+  "letra": "L",
+  "atualizado": "24/11/2026",
+  "meta": {
+    "cplBom": 10,
+    "cplMedio": 18,
+    "d1": {
+      "spend": 18.93,
+      "leads": 3,
+      "cpl": 6.31
+    },
+    "d7": {
+      "spend": 170.88,
+      "leads": 29,
+      "cpl": 5.89
+    },
+    "d14": {
+      "spend": 232.43,
+      "leads": 56,
+      "cpl": 4.15
+    },
+    "d30": {
+      "spend": 247.44,
+      "leads": 75,
+      "cpl": 3.3
+    }
+  },
+  "google": {
+    "ativo": false,
+    "cplBom": 10,
+    "cplMedio": 30,
+    "d1": {
+      "spend": null,
+      "leads": null,
+      "cpl": null
+    },
+    "d7": {
+      "spend": null,
+      "leads": null,
+      "cpl": null
+    },
+    "d14": {
+      "spend": null,
+      "leads": null,
+      "cpl": null
+    },
+    "d30": {
+      "spend": null,
+      "leads": null,
+      "cpl": null
+    }
+  }
+}
