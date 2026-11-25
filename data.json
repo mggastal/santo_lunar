@@ -2,29 +2,29 @@
   "cliente": "Lunar",
   "cor": "#EA8425",
   "letra": "L",
-  "atualizado": "24/11/2026",
+  "atualizado": "25/11/2026",
   "meta": {
     "cplBom": 10.0,
     "cplMedio": 18.0,
     "d1": {
-      "spend": 18.93,
-      "leads": 3,
-      "cpl": 6.31
+      "spend": 5.57,
+      "leads": 0,
+      "cpl": null
     },
     "d7": {
-      "spend": 170.88,
-      "leads": 29,
-      "cpl": 5.89
+      "spend": 76.84,
+      "leads": 11,
+      "cpl": 6.99
     },
     "d14": {
-      "spend": 232.43,
-      "leads": 56,
-      "cpl": 4.15
+      "spend": 203.12,
+      "leads": 36,
+      "cpl": 5.64
     },
     "d30": {
-      "spend": 247.44,
+      "spend": 253.01,
       "leads": 75,
-      "cpl": 3.3
+      "cpl": 3.37
     }
   },
   "google": {
